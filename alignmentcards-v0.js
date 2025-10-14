@@ -101,5 +101,51 @@
         "professional": "Designers exclude human control in high-risk environments, leading to ethical lapses.",
         "machine": "The AI ignores or overrides human input, resulting in autonomous errors or harm."
       }
+    },
+    {
+    "category": "AB",
+    "name": "Teamwork vs Individual Achievement",
+    "definition": "Organizations often claim to value collaboration but reward individual success metrics, undermining teamwork.",
+    "human": "People focus on outperforming peers instead of cooperating, fostering competition over cooperation.",
+    "organizational": "The company promotes teamwork yet offers bonuses for personal achievements, weakening collective goals.",
+    "professional": "Managers evaluate employees on personal metrics rather than group performance, discouraging shared problem-solving.",
+    "machine": "AI systems optimize for individual productivity data instead of team collaboration outcomes.",
+    "failureModes": {
+      "human": "Individuals hoard information to gain advantage over peers.",
+      "organizational": "Departments compete for credit instead of coordinating toward shared results.",
+      "professional": "Engineers avoid collaborative debugging or documentation to focus on individual deliverables.",
+      "machine": "AI-driven performance systems overvalue solo output, reducing cooperation within teams."
     }
+  },
+  {
+    "category": "AB",
+    "name": "Innovation vs Risk Aversion",
+    "definition": "Organizations praise innovation but punish failure, creating a culture that avoids risk-taking.",
+    "human": "People hide mistakes or avoid bold ideas to protect their reputation.",
+    "organizational": "The system claims to reward creativity but penalizes projects that fail, fostering conformity.",
+    "professional": "Researchers pursue safe, incremental studies instead of breakthrough innovations.",
+    "machine": "AI models are trained to minimize error, discouraging exploration or novel solutions.",
+    "failureModes": {
+      "human": "Employees play it safe to avoid blame for failed experiments.",
+      "organizational": "Leadership rejects unproven ideas, reinforcing a conservative status quo.",
+      "professional": "Designers copy existing models to avoid project rejection.",
+      "machine": "The AI’s objective function overemphasizes error minimization, reducing creative discovery."
+    }
+  },
+  {
+    "category": "AB",
+    "name": "Ethical Leadership vs Short-Term Results",
+    "definition": "Leaders claim to value ethics and integrity but reward short-term performance and profits instead.",
+    "human": "Managers prioritize quarterly targets over fair or honest practices.",
+    "organizational": "Corporate incentives tie bonuses to immediate financial outcomes rather than ethical impact.",
+    "professional": "Professionals overlook safety or compliance to meet deadlines or quotas.",
+    "machine": "AI systems are optimized for efficiency or profit without constraints for fairness or long-term consequences.",
+    "failureModes": {
+      "human": "Individuals compromise ethics to achieve visible success.",
+      "organizational": "Companies reward rule-bending behavior that boosts short-term metrics.",
+      "professional": "Engineers skip ethical review steps to deliver on time.",
+      "machine": "AI algorithms maximize engagement or revenue at the cost of user well-being or misinformation."
+    }
+  }
+
 ]
