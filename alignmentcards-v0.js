@@ -220,47 +220,6 @@
       "experts": "Peer accountability enforces scientific rigor.",
       "machine": "AI accountability builds governance frameworks for responsible deployment."
     }
-  },
-  {
-    "category": "AT",
-    "name": "Humility",
-    "definition": "Recognizing one’s limits and remaining open to correction.",
-    "people": "Humility prevents ego-driven reasoning and fosters cooperation.",
-    "organizational": "",
-    "professionals": "",
-    "machine": "",
-    "failureModes": {
-      "human": "",
-      "organizational": "",
-      "experts": "",
-      "machine": ""
-    },
-    "expand": {
-      "human": "",
-      "organizational": "",
-      "experts": "",
-      "machine": ""
-    }
-  },
-  {
-    "category": "AT",
-    "name": "Curiosity",
-    "definition": "A sustained drive to seek understanding, question assumptions, and explore new ideas."
-  },
-  {
-    "category": "AT",
-    "name": "Integrity",
-    "definition": "Consistency of moral principles across contexts; acting in accordance with one’s values even under pressure."
-  },
-  {
-    "category": "AT",
-    "name": "Cooperation",
-    "definition": "Working collaboratively toward shared goals while balancing individual and collective interests."
-  },
-  {
-    "category": "AT",
-    "name": "Transparency",
-    "definition": "Making processes and decisions visible and understandable to affected
   }
 
 ]
