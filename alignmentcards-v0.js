@@ -6,6 +6,13 @@
     "pathology": "normative void", 
     "color": "#E6FFE9",
     "description": "Alignment principles are contestable, general-purpose, broadly recognized ethical or social or normative commitments that can serve as warrants for recommending or evaluating an agent's course of action in contexts where alignment and cooperation with others matters."
+  }, 
+    {
+    "code": "AT",
+    "name": "Alignment Traits",
+    "pathology": "Failures of alignment often stem from missing or underdeveloped traits such as honesty, empathy, or accountability that maintain trust, transparency, and shared purpose across systems of intelligence.",
+    "color": "#E6F7FF",
+    "description": "Alignment Traits capture enduring dispositions—like honesty, empathy, accountability, humility, and curiosity—that make both humans and machines reliably act in ways that respect others’ values and goals. Each trait functions as a stabilizer that prevents misalignment through self-correction and relational awareness."
   }
 ];
 
@@ -146,6 +153,114 @@
       "professional": "Engineers skip ethical review steps to deliver on time.",
       "machine": "AI algorithms maximize engagement or revenue at the cost of user well-being or misinformation."
     }
+  },
+  {
+    "category": "AT",
+    "name": "Honesty",
+    "definition": "Commitment to truth-telling and transparency even when inconvenient.",
+    "people": "In humans, honesty underpins interpersonal trust—allowing people to coordinate, share feedback, and self-correct without manipulation.",
+    "peopleref": "none",
+    "organizational": "Organizations practice honesty through transparent reporting, ethical communication, and accurate representation of outcomes.",
+    "organizationalref": "none",
+    "professionals": "Professional honesty appears in research integrity, accurate data representation, and the refusal to fabricate or exaggerate claims.",
+    "professionalref": "none",
+    "machine": "For AI systems, honesty corresponds to faithful model outputs and interpretability—models that do not hallucinate or conceal uncertainty.",
+    "machineref": "none",
+    "failureModes": {
+      "human": "Deception leads to loss of trust, fractured relationships, and ethical violations.",
+      "organizational": "Data manipulation or false reporting undermines credibility and legal compliance.",
+      "experts": "Fabricated findings or overconfidence misguides decision-making.",
+      "machine": "Hallucinations, bias masking, or lack of model transparency erode reliability."
+    },
+    "expand": {
+      "human": "Honesty supports moral agency—allowing individuals to align words and actions with shared truths.",
+      "organizational": "Transparent organizations earn long-term trust from employees, investors, and the public.",
+      "experts": "Professional honesty ensures knowledge systems stay self-correcting through replication and peer review.",
+      "machine": "Machine honesty requires interpretability frameworks, verifiable reasoning traces, and calibrated confidence levels."
+    }
+  },
+  {
+    "category": "AT",
+    "name": "Empathy",
+    "definition": "The ability to understand and share the feelings or perspectives of others.",
+    "people": "Humans use empathy to align emotional understanding with others’ well-being, enabling moral concern.",
+    "organizational": "Organizations demonstrate empathy through user-centered design, inclusive culture, and social responsibility policies.",
+    "professionals": "Professionals apply empathy to improve client relations and workplace collaboration.",
+    "machine": "Machine empathy involves affective computing or modeling human affect to adapt communication styles appropriately.",
+    "failureModes": {
+      "human": "Without empathy, interactions become exploitative or insensitive.",
+      "organizational": "Products or policies neglect stakeholder needs, leading to disengagement or harm.",
+      "experts": "Experts may ignore lived experiences or user contexts.",
+      "machine": "Robots or AI systems misread emotions, respond insensitively, or amplify distress."
+    },
+    "expand": {
+      "human": "Empathy acts as an alignment mechanism by integrating emotional awareness into decision-making.",
+      "organizational": "Empathetic design improves system adoption and satisfaction.",
+      "experts": "Professional empathy ensures interdisciplinary respect and ethical foresight.",
+      "machine": "Empathetic AI models support better human–machine interaction and trust calibration."
+    }
+  },
+  {
+    "category": "AT",
+    "name": "Accountability",
+    "definition": "Willingness to be held responsible for one’s actions and their impacts.",
+    "people": "Individuals align with collective values by accepting responsibility and learning from mistakes.",
+    "organizational": "Institutions use audits, feedback systems, and oversight bodies to maintain accountability.",
+    "professionals": "Accountability appears in codes of conduct and peer review processes.",
+    "machine": "AI accountability includes traceability, audit logs, and explainability of decisions.",
+    "failureModes": {
+      "human": "Denial and blame-shifting block moral growth.",
+      "organizational": "Unaccountable systems lead to corruption and ethical drift.",
+      "experts": "Without review, expertise turns into authority without justification.",
+      "machine": "Opaque algorithms make error correction or liability impossible."
+    },
+    "expand": {
+      "human": "Accountability transforms mistakes into learning events.",
+      "organizational": "Accountable organizations evolve with stakeholder trust.",
+      "experts": "Peer accountability enforces scientific rigor.",
+      "machine": "AI accountability builds governance frameworks for responsible deployment."
+    }
+  },
+  {
+    "category": "AT",
+    "name": "Humility",
+    "definition": "Recognizing one’s limits and remaining open to correction.",
+    "people": "Humility prevents ego-driven reasoning and fosters cooperation.",
+    "organizational": "",
+    "professionals": "",
+    "machine": "",
+    "failureModes": {
+      "human": "",
+      "organizational": "",
+      "experts": "",
+      "machine": ""
+    },
+    "expand": {
+      "human": "",
+      "organizational": "",
+      "experts": "",
+      "machine": ""
+    }
+  },
+  {
+    "category": "AT",
+    "name": "Curiosity",
+    "definition": "A sustained drive to seek understanding, question assumptions, and explore new ideas."
+  },
+  {
+    "category": "AT",
+    "name": "Integrity",
+    "definition": "Consistency of moral principles across contexts; acting in accordance with one’s values even under pressure."
+  },
+  {
+    "category": "AT",
+    "name": "Cooperation",
+    "definition": "Working collaboratively toward shared goals while balancing individual and collective interests."
+  },
+  {
+    "category": "AT",
+    "name": "Transparency",
+    "definition": "Making processes and decisions visible and understandable to affected
   }
 
 ]
